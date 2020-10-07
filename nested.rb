@@ -82,8 +82,8 @@ def adding_matz
           :languages => ["C"]
         }
      }
-end
-programmer_hash << {"yukihiro_matsumoto" : "Ruby"}
+
+programmer_hash << {"yukihiro_matsumoto" => "Ruby"}
 end
 
 def changing_alan
