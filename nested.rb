@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-programmer_hash << {":yukihiro_matsumoto" : "Ruby"}
+programmer_hash << {:yukihiro_matsumoto : "Ruby"}
 end
 
 def changing_alan
