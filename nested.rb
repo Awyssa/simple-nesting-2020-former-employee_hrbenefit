@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-programmer_hash << {" Satoshi Nakamoto" : "Bitcoin"}
+programmer_hash << {":yukihiro_matsumoto" : "Bitcoin"}
 end
 
 def changing_alan
